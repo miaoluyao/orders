@@ -12,7 +12,7 @@
   },
   "devDependencies": {
     "@graphprotocol/graph-cli": "^0.21.1",
-    "@graphprotocol/graph-ts": "^0.16.0",
+    "@graphprotocol/graph-ts": "^0.18.0",
     "mustache": "^4.0.1",
     "ts-node": "^8.5.4",
     "typescript": "^3.7.4"
